@@ -1,0 +1,15 @@
+{
+  "name": "prework",
+  "version": "1.0.0",
+  "description": "prework for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ranjit",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "yargs": "^5.0.0"
+  }
+}
